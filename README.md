@@ -1,5 +1,5 @@
 # frogger-clone
-Arcade game project based on Udacity's Javascript [course](https://www.udacity.com/course/object-oriented-javascript--ud015)
+Arcade game project based on Udacity's Javascript [course](https://www.udacity.com/course/object-oriented-javascript--ud015), built using object-oriented programming concepts
 
 Game's engine and image cache utility (engine.js and resources.js files) were provided by the course. Original source code can be found [here](https://github.com/udacity/frontend-nanodegree-arcade-game)
 
